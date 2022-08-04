@@ -3,7 +3,7 @@ title: "CEE 220A: Travel Demand Analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/CEE220A
-date: "Fall quarter, 2021"
+date: 2021
 venue: "UC Irvine, CEE"
 location: "Irvine, CA"
 ---
