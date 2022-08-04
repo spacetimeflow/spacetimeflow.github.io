@@ -1,5 +1,5 @@
 ---
-title: "Stable local dynamics for day-to-day departure time choice"
+title: "[J75-C72] Stable local dynamics for day-to-day departure time choice"
 collection: publications
 permalink: /publication/jin2021Stable-local-dynamics
 excerpt: 'This paper present a new dynamical system with local shifting of departure times.'
@@ -18,6 +18,8 @@ Highlights:
 
 [Download paper here](https://doi.org/10.1016/j.trb.2021.05.013)
 
-[A companion Jupyter Notebook for reproducible simulation results](https://jin-wl.github.io/Jin-WL-Public-Jupyter-Notebooks/retro/notebooks/?path=jin2021Stable-local-dynamics-for-day-to-day-departure-time-choice.ipynb)
+[A companion Jupyter Notebook for reproducible simulation results](https://spacetimeflow.github.io/Jin-WL-Public-Jupyter-Notebooks/retro/notebooks/?path=jin2021Stable-local-dynamics-for-day-to-day-departure-time-choice.ipynb)
+
+The paper is also presented at ISTTT24 on 7/24/2022.
 
 Recommended citation: Jin, W. L. (2021). Stable local dynamics for day-to-day departure time choice. <i>Transportation Research Part B</i>, 149, 463-479.
