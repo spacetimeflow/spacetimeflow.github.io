@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/CEE220A
 venue: "UC Irvine, CEE"
-date: 2021
 location: "Irvine, CA"
 ---
 
