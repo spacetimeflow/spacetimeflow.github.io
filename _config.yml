@@ -83,9 +83,9 @@ author:
   name             : "Dr. Wen-Long Jin"
   avatar           : "jin20090701photo.jpg"
   bio              : "Professor, Civil and Environmental Engineering"
-  location         : "Location"
-  employer         : "University of California, Irvine"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : 
+  employer         : "https://www.uci.edu/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OaQ0H7AAAAAJ&hl=en"
   email            : "wjin@uci.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -181,11 +181,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  members:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
