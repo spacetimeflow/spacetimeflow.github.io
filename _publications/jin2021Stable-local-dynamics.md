@@ -3,7 +3,6 @@ title: "Stable local dynamics for day-to-day departure time choice"
 collection: publications
 permalink: /publication/jin2021Stable-local-dynamics
 excerpt: 'This paper present a new dynamical system with local shifting of departure times.'
-date: 2021
 venue: 'Transportation Research Part B'
 paperurl: 'https://doi.org/10.1016/j.trb.2021.05.013'
 citation: 'Jin, W. L. (2021). Stable local dynamics for day-to-day departure time choice. <i>Transportation Research Part B</i>, 149, 463-479.'
