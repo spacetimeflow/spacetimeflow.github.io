@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We are interested in modeling and control of multi-modal transportation systems as flows in different spatial-temporal domains.
-
-Multi-modal transportation systems
-======
+At the SpaceTimeFlow Lab of UC Irvine, we are interested in modeling and control of multi-modal transportation systems as flows in different spatial-temporal domains.
 
 
-Flows in different  spatial-temporal domains
-======
-
-
-Modeling and control
-======
 
