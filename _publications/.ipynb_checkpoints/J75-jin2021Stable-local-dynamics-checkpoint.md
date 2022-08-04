@@ -20,6 +20,9 @@ Highlights:
 
 [A companion Jupyter Notebook for reproducible simulation results](https://spacetimeflow.github.io/Jin-WL-Public-Jupyter-Notebooks/retro/notebooks/?path=jin2021Stable-local-dynamics-for-day-to-day-departure-time-choice.ipynb)
 
-The paper is also presented at ISTTT24 on 7/24/2022.
+The paper is also presented at ISTTT24 on 7/24/2022. The recorded video is available at [bilibili](https://www.bilibili.com/video/BV1VF411N7mC?spm_id_from=333.337.search-card.all.click).
 
 Recommended citation: Jin, W. L. (2021). Stable local dynamics for day-to-day departure time choice. <i>Transportation Research Part B</i>, 149, 463-479.
+
+---
+Page updated: 2022-08-03 20:47:53
