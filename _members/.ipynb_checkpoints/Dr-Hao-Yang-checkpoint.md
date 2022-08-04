@@ -3,4 +3,4 @@ title: "Dr. Hao Yang"
 collection: members
 ---
 
-https://www.eng.mcmaster.ca/civil/people/faculty/hao-yang
+Dr. Hao Yang is an Assistant Professor at [McMaster University](https://www.eng.mcmaster.ca/civil/people/faculty/hao-yang).
