@@ -13,7 +13,8 @@ We are interested in modeling and control of multi-modal transportation systems 
 Multi-modal transportation systems
 ======
 
-Different  spatial-temporal domains
+
+Flows in different  spatial-temporal domains
 ======
 
 
