@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to visit the page of Dr. Wen-Long Jin & the SpaceTimeFlow Lab @ UC Irvine"
+title: "Welcome to visit the page of Dr. Wenlong Jin & the SpaceTimeFlow Lab @ UC Irvine"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
